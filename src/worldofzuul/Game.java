@@ -18,7 +18,7 @@ public class Game {
 
         outside = new Room("outside the main entrance of the university");
         theatre = new Room("in a lecture theatre");
-        pub = new Room("in the campus pub");
+        pub = new Room("in the campus");
         lab = new Room("in a computing lab");
         office = new Room("in the computing admin office");
 
